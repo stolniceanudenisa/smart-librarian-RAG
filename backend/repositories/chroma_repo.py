@@ -1,6 +1,11 @@
 from typing import List, Dict, Any, Optional
+
 import chromadb
 from chromadb.config import Settings as ChromaSettings
+
+# ✅ Import the OpenAI client
+from openai import OpenAI
+
 from backend.core.config import settings
 
 class ChromaRepository:
