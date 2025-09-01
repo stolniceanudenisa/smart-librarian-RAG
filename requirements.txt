@@ -1,0 +1,25 @@
+# --- Core ---
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# --- Vector DB ---
+chromadb
+numpy
+
+# --- OpenAI ---
+openai
+
+# --- Optional Features ---
+# edge-tts             # For text-to-speech with Microsoft Edge
+# SpeechRecognition    # For microphone input (STT)
+# pillow               # For image processing
+# requests             # For API calls (images, etc.)
+
+# --- Development ---
+python-dotenv
+httpx
+pytest
+black
+mypy

@@ -1,0 +1,1 @@
+# Recommendation entity (title + rationale)

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "1984",
+    "tags": ["dystopia", "freedom", "control"],
+    "short": "A dystopian story about a totalitarian society controlled by Big Brother.",
+    "full": "George Orwell's novel depicts a dystopian society under total state control. Citizens are constantly watched by Big Brother, and independent thought is considered a crime. Winston Smith, the main character, struggles to resist the oppressive regime. It is a story about freedom, truth, and ideological manipulation."
+  },
+  {
+    "title": "The Hobbit",
+    "tags": ["fantasy", "friendship", "adventure"],
+    "short": "A hobbit is drawn into an epic quest alongside dwarves and a wizard.",
+    "full": "Bilbo Baggins, a comfort-loving hobbit, is unexpectedly invited on a mission to reclaim a treasure guarded by the dragon Smaug. Along the journey, he discovers courage and inner resources he never knew he had. The story is full of fantastic creatures, unlikely friendships, and moments of tension."
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "tags": ["fantasy", "friendship", "magic", "coming-of-age"],
+    "short": "An orphan discovers he is a wizard and begins school at Hogwarts, where a hidden threat emerges.",
+    "full": "Harry Potter learns at age eleven that he is a wizard and is invited to Hogwarts School of Witchcraft and Wizardry. There he makes close friends and begins to uncover the truth about his past. When he encounters the mystery of the Philosopher's Stone, he must confront the first signs of Lord Voldemort's return. Friendship, bravery, and loyalty guide him through his first great challenge."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "tags": ["classic", "justice", "racism", "coming-of-age"],
+    "short": "A young girl observes racial injustice in the American South as her father defends an innocent man.",
+    "full": "Scout Finch grows up in a small Alabama town in the 1930s, where racial prejudice runs deep. Her father, Atticus Finch, defends a black man falsely accused of assaulting a white woman. Through this experience, Scout learns about moral courage, empathy, and the harsh realities of justice. The novel explores innocence, family, and the fight for fairness."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "tags": ["romance", "society", "class", "satire"],
+    "short": "Elizabeth Bennet and Mr. Darcy navigate pride, prejudice, and social expectations to find love.",
+    "full": "Elizabeth Bennet and Mr. Darcy meet in a society ruled by class and appearances. Their pride and prejudice lead to misunderstandings and false judgments, but reflection and honesty transform their relationship. With humor and irony, Jane Austen critiques social norms of marriage and class. Ultimately, mutual respect opens the way to love."
+  },
+  {
+    "title": "The Little Prince",
+    "tags": ["philosophy", "friendship", "childhood", "meaning"],
+    "short": "A pilot meets a little prince from another planet and learns about love, loss, and what truly matters.",
+    "full": "A pilot stranded in the desert meets a little prince from a distant asteroid. The prince recounts his travels to various planets, where he encountered kings, businessmen, and vain people who reveal the absurdities of adulthood. His bond with a rose and friendship with a fox teach that what is essential is invisible to the eye. The tale reflects on innocence, love, and the meaning of life."
+  },
+  {
+    "title": "Brave New World",
+    "tags": ["dystopia", "technology", "control", "identity"],
+    "short": "In a society engineered for stability, individuality and freedom come at a cost.",
+    "full": "Aldous Huxley's novel portrays a future world built on genetic engineering, conditioning, and the drug soma to ensure stability and pleasure. Individuality and family are suppressed in favor of social order. Characters like Bernard and John the Savage question the price of this artificial happiness. The story explores themes of freedom, identity, and control."
+  },
+  {
+    "title": "The Great Gatsby",
+    "tags": ["classic", "wealth", "love", "illusion"],
+    "short": "A mysterious millionaire pursues the American Dream and a lost love in 1920s New York.",
+    "full": "Jay Gatsby, a wealthy but enigmatic man, throws extravagant parties in hopes of winning back Daisy Buchanan, the woman he loves. Narrated by Nick Carraway, the novel unveils the illusions, corruption, and desires of the Jazz Age. Gatsby's tragic pursuit of the American Dream exposes the emptiness of materialism and obsession with status."
+  },
+  {
+    "title": "Moby-Dick",
+    "tags": ["adventure", "obsession", "sea", "classic"],
+    "short": "A sea captain obsessively hunts a giant white whale, risking everything.",
+    "full": "Captain Ahab, driven by vengeance, sets out to hunt Moby Dick, the legendary white whale that maimed him. Narrated by Ishmael, the novel explores obsession, fate, and humanity’s struggle against nature. The voyage aboard the Pequod becomes a meditation on destiny, madness, and the destructive power of obsession."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "tags": ["coming-of-age", "isolation", "identity"],
+    "short": "A teenager recounts his struggles with identity, alienation, and adulthood.",
+    "full": "Holden Caulfield, a disillusioned teenager, narrates his experiences after being expelled from prep school. Wandering through New York City, he grapples with feelings of isolation, confusion, and resistance to growing up. The novel captures the struggles of adolescence, identity, and the search for authenticity in a world he finds phony."
+  }
+]
